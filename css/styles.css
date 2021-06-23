@@ -1,0 +1,39 @@
+body{
+  background-color: #CDF0EA;
+ margin: 0;
+ text-align: center;
+ position: relative;
+ padding-top: 100px;
+ font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+font-family: 'Caveat', cursive;
+}
+h2{
+  font-family: 'Merriweather', serif;
+}
+h3{
+  font-family: 'Merriweather', serif;
+}
+h4{
+  font-family: 'Merriweather', serif;
+}
+.Top-container {
+margin: 0 auto;
+}
+.Top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300;
+}
+.middle-container{
+
+}
+.bottom-container{
+}
